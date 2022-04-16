@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-docusaurus-test-site.com/zoa-docs/blog</id>
-    <title>My Site Blog</title>
+    <title>Zoa Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-test-site.com/zoa-docs/blog"/>
-    <subtitle>My Site Blog</subtitle>
-    <icon>https://your-docusaurus-test-site.com/zoa-docs/img/favicon.ico</icon>
+    <subtitle>Zoa Blog</subtitle>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>welcome</id>

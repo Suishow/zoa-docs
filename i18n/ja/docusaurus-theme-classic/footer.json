@@ -1,0 +1,14 @@
+{
+  "link.title.Company": {
+    "message": "Company",
+    "description": "The title of the footer links column with title=Company in the footer"
+  },
+  "link.title.Zoa": {
+    "message": "Zoa",
+    "description": "The title of the footer links column with title=Zoa in the footer"
+  },
+  "link.title.Marketplace": {
+    "message": "Marketplace",
+    "description": "The title of the footer links column with title=Marketplace in the footer"
+  }
+}

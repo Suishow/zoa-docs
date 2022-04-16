@@ -14,6 +14,11 @@ const config = {
   organizationName: 'Suishow', // Usually your GitHub org/user name.
   projectName: 'zoa-docs', // Usually your repo name.
 
+  i18n: {
+    defaultLocale: 'ja',
+    locales: ['ja', 'en'],
+  },
+
   presets: [
     [
       'classic',
@@ -51,13 +56,12 @@ const config = {
           {
             type: 'doc',
             docId: 'intro',
-            position: 'left',
+            position: 'right',
             label: 'Tutorial',
           },
-          { to: '/blog', label: 'Blog', position: 'left' },
+          { to: '/blog', label: 'Blog', position: 'right' },
           {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
+            type: 'localeDropdown',
             position: 'right',
           },
         ],

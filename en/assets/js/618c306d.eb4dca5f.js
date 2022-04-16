@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkzeo_docs=self.webpackChunkzeo_docs||[]).push([[34],{7611:function(o){o.exports=JSON.parse('{"permalink":"/zoa-docs/en/blog/tags/facebook","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
